@@ -89,7 +89,7 @@ nav {
 }
 
 nav a:hover {
-    color: rgb(125, 37, 37);
+    color: #9a52a5;
     transition: 0.5s;
     -webkit-transition: 0.5s;
     -moz-transition: 0.5s;
@@ -339,7 +339,7 @@ footer .container h2:before {
     ;
     width: 50px;
     height: 2px;
-    background: #f00;
+    background: #9a52a5
 }
 
 footer p {
@@ -393,7 +393,7 @@ footer a {
 }
 
 .sci li a:hover {
-    background: rgb(125, 37, 37);
+    background: #9a52a5
 }
 
 .sci li a .fa {
@@ -486,7 +486,7 @@ footer a {
 .confidential h2,
 .spoiler h2,
 .caution h2 {
-    color: rgb(125, 37, 37);
+    color: #9a52a5;
     text-align: center;
 }
 
@@ -520,6 +520,7 @@ footer a {
     list-style: none;
     color: #999;
     align-items: center;
+    color: #9a52a5;
 }
 
 .confidential a:hover,
@@ -527,7 +528,7 @@ footer a {
 .caution a:hover {
     text-decoration: none;
     list-style: none;
-    color: rgb(125, 37, 37);
+    color: #fea4fe;
 }
 
 h2 {

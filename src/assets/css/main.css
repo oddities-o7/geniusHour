@@ -40,7 +40,7 @@ nav {
 }
 
 .logo {
-    color: rgb(38, 100, 100);
+    color: rgba(207, 158, 114, 255);
     text-decoration: uppercase;
     letter-spacing: 5px;
     display: flex;
@@ -63,7 +63,7 @@ nav {
 }
 
 .nav-links a {
-    color: rgb(38, 100, 100);
+    color: rgba(207, 158, 114, 255);
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
@@ -79,7 +79,7 @@ nav {
 .burger div {
     width: 25px;
     height: 3px;
-    background-color: rgb(38, 100, 100);
+    background-color: rgba(207, 158, 114, 255);
     margin: 5px;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -397,7 +397,7 @@ footer a {
 }
 
 .sci li a .fa {
-    color: rgb(38, 100, 100);
+    color: rgba(207, 158, 114, 255);
     font-size: 20px;
 }
 

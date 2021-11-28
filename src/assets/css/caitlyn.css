@@ -238,7 +238,7 @@ input[type=text]:focus {
 }
 
 .menu-box .titular {
-    background: #50597b;
+    background: #9a52a5;
 }
 
 .menu-box-menu .icon {
@@ -252,7 +252,7 @@ input[type=text]:focus {
 .menu-box-number {
     width: 36px;
     line-height: 22px;
-    background: #50597b;
+    background: #9a52a5;
     text-align: center;
     border-radius: 15px;
     position: absolute;
@@ -276,7 +276,7 @@ input[type=text]:focus {
 }
 
 .menu-box-tab:hover {
-    background: #50597b;
+    background: #9a52a5;
     border-top: 1px solid #1f253d;
     text-decoration: none;
 }
@@ -286,7 +286,7 @@ input[type=text]:focus {
 }
 
 .menu-box-tab:hover .menu-box-number {
-    background: #e64c65;
+    background: #fea4fe;
 }
 
 .donut-chart-block {
@@ -295,7 +295,7 @@ input[type=text]:focus {
 
 .donut-chart-block .titular {
     padding: 10px 0;
-    background-color: #50597b;
+    background-color: #9a52a5;
 }
 
 .donut-chart {
@@ -337,7 +337,7 @@ input[type=text]:focus {
 }
 
 .weather .titular {
-    background: #50597b;
+    background: #9a52a5;
 }
 
 .tweets {
@@ -345,7 +345,7 @@ input[type=text]:focus {
 }
 
 .tweets .titular {
-    background: #50597b;
+    background: #9a52a5;
 }
 
 .tweets .titular .icon {
@@ -374,7 +374,7 @@ input[type=text]:focus {
 }
 
 .tweet-link {
-    color: #e64c65;
+    color: #fea4fe;
 }
 
 
@@ -385,7 +385,7 @@ input[type=text]:focus {
 }
 
 .calendar-month .titular {
-    background: #50597b;
+    background: #9a52a5;
 }
 
 .calendar {

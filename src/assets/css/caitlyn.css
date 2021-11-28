@@ -105,7 +105,7 @@ span {
 }
 
 .scnd-font-color {
-    color: #9099b7;
+    color: #9a52a5;
 }
 
 .input-container {
@@ -118,7 +118,7 @@ input[type=text] {
     margin-left: 20px;
     margin-bottom: 20px;
     padding-left: 45px;
-    background: #50597b;
+    background: #9a52a5;
     color: #fff;
     border: solid 1px #1f253d;
     border-radius: 5px;
@@ -198,13 +198,13 @@ input[type=text]:focus {
 
 .big-profile-picture {
     margin: 0 auto;
-    border: 5px solid #50597b;
+    border: 5px solid #9a52a5;
     width: 150px;
     height: 150px;
 }
 
 .small-profile-picture {
-    border: 2px solid #50597b;
+    border: 2px solid #9a52a5;
     width: 40px;
     height: 40px;
 }

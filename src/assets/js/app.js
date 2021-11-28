@@ -28,27 +28,27 @@ navSlide();
 //links from pictures
 
 $("#landingImages1").click(function() {
-    window.location.href = 'captainAmerica.html';
+    window.location.href = 'vi.html';
 });
 
 $("#landingImages2").click(function() {
-    window.location.href = 'ironMan.html';
+    window.location.href = 'jinx.html';
 });
 
 $("#landingImages3").click(function() {
-    window.location.href = 'thor.html';
+    window.location.href = 'ekko.html';
 });
 
 $("#landingImages4").click(function() {
-    window.location.href = 'hulk.html';
+    window.location.href = 'jayce.html';
 });
 
 $("#landingImages5").click(function() {
-    window.location.href = 'blackWidow.html';
+    window.location.href = 'caitlyn.html';
 });
 
 $("#landingImages6").click(function() {
-    window.location.href = 'hawkeye.html';
+    window.location.href = 'viktor.html';
 });
 
 $("#navImage").click(function() {

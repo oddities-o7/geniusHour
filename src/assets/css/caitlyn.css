@@ -215,7 +215,7 @@ input[type=text]:focus {
 .main-container {
     font-family: 'Ubuntu', sans-serif;
     width: 950px;
-    height: 1000px;
+    height: 625px;
     margin: 3em auto;
 }
 
@@ -234,7 +234,7 @@ input[type=text]:focus {
 /* left container */
 
 .menu-box {
-    height: 602px;
+    height: 662px;
 }
 
 .menu-box .titular {
@@ -290,11 +290,12 @@ input[type=text]:focus {
 }
 
 .donut-chart-block {
-    height: 260px;
+    height: 300px;
 }
 
 .donut-chart-block .titular {
-    padding: 10px 0;
+    background-color: #50597b;
+    /*padding: 10px 0;*/
     background-color: #9a52a5;
 }
 
@@ -341,7 +342,7 @@ input[type=text]:focus {
 }
 
 .tweets {
-    height: 390px;
+    height: 300px;
 }
 
 .tweets .titular {
@@ -354,12 +355,12 @@ input[type=text]:focus {
 }
 
 .tweet.first {
-    height: 110px;
+    height: 80px;
     border-bottom: 1px solid #1f253d;
 }
 
 .tweet.second {
-    height: 110px;
+    height: 80px;
     border-bottom: 1px solid #1f253d;
 }
 

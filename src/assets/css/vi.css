@@ -290,11 +290,10 @@ input[type=text]:focus {
 }
 
 .donut-chart-block {
-    height: 260px;
+    height: 300px;
 }
 
 .donut-chart-block .titular {
-    padding: 10px 0;
     background-color: #50597b;
 }
 
